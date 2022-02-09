@@ -1,6 +1,5 @@
 # Airbnb Rentals in NYC
 
-```
 <img src="Images\download.jpg" alt="A" style="zoom:200%;" />
 
 # Analysis of Airbnb Rentals in NYC
@@ -33,4 +32,3 @@ With the provided data, the model with the lowest Mean Squared Error was the Ran
 - P5 Presentation PDF.pdf
 - P5 Presentation.pptx
 - README.md
-```
