@@ -1,6 +1,6 @@
 # Airbnb Rentals in NYC
 
-<img src="Images\download.jpg" alt="A" width="500" />
+<img src="Images\download.jpg" alt="A" width="800" />
 
 # Analysis of Airbnb Rentals in NYC
 ###### Author: Ryan S. Chung
